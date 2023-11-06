@@ -10,7 +10,7 @@ int main()
         n=n/10;
     }
     if(rev==t)
-    printf("True");
+    printf("Palindrome");
     else
-    printf("False");
+    printf("Not Palindrome");
 }
